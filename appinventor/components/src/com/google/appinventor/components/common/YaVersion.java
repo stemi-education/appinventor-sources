@@ -1079,5 +1079,7 @@ public class YaVersion {
   // Splash Screen Values
   public static final int SPLASH_SURVEY = 1;
 
+  // STEMI HexapodCompenent version
+  public static final int STEMI_HEXAPOD_COMPONENT_VERSION = 1;
 
 }
