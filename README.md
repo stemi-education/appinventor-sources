@@ -1,6 +1,6 @@
-#Welcome to MIT App Inventor
+# Welcome to MIT App Inventor
 
-##Introduction
+## Introduction
 
 Learn more about [MIT App Inventor](http://appinventor.mit.edu).
 
